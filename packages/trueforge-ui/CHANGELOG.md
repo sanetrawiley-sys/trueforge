@@ -1,5 +1,11 @@
 # Changelog
 
+## 0.3.1
+
+### Patch Changes
+
+- acad1a1: Add chat-history rename for servers that implement `renameSession`, including TrueForge harness title updates.
+
 ## 0.3.0
 
 ### Minor Changes
